@@ -1,0 +1,3 @@
+[submodule "data-admin-au"]
+	path = data-admin-au
+	url = https://github.com/whosonfirst-data/whosonfirst-data-admin-au.git
