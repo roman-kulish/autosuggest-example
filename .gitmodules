@@ -1,3 +1,6 @@
 [submodule "data-admin-au"]
 	path = data-admin-au
 	url = https://github.com/whosonfirst-data/whosonfirst-data-admin-au.git
+[submodule "data-postalcode-au"]
+	path = data-postalcode-au
+	url = https://github.com/whosonfirst-data/whosonfirst-data-postalcode-au.git
