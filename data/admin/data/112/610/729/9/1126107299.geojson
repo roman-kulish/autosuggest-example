@@ -1,0 +1,120 @@
+{
+  "id": 1126107299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.429265,-28.006928,153.429265,-28.006928",
+    "geom:latitude":-28.006928,
+    "geom:longitude":153.429265,
+    "gn:country":null,
+    "iso:country":"AU",
+    "lbl:bbox":"153.424265,-28.011928,153.434265,-28.001928",
+    "lbl:latitude":-28.006928,
+    "lbl:longitude":153.429265,
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Paradise Island"
+    ],
+    "name:deu_x_preferred":[
+        "Paradise Island"
+    ],
+    "name:fra_x_preferred":[
+        "Paradise Island"
+    ],
+    "name:nor_x_preferred":[
+        "Paradise Island"
+    ],
+    "name:pol_x_preferred":[
+        "Paradise Island"
+    ],
+    "name:por_x_preferred":[
+        "Paradise Island"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Paradise"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5929\u5802\u5c9b"
+    ],
+    "name:zho_x_preferred":[
+        "\u5929\u5802\u5cf6"
+    ],
+    "qs_pg:aaroncc":"AU",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Paradise Island",
+    "qs_pg:name_adm0":"Australia",
+    "qs_pg:name_adm1":"Queensland",
+    "qs_pg:photos":101,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":101,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":14390,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424748,
+    "qs_pg:woe_id":22720819,
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424748,
+    "woe:name_adm0":"Australia",
+    "woe:name_adm1":"Queensland",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583,
+        1376953307,
+        404544235,
+        85632793,
+        101935411,
+        136253039,
+        102049363,
+        85681463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22720819,
+        "qs_pg:id":14390
+    },
+    "wof:country":"AU",
+    "wof:created":1497317346,
+    "wof:geomhash":"a4907ef8bc99d68279e3a61c60d65063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049363,
+            "empire_id":136253039,
+            "localadmin_id":404544235,
+            "locality_id":101935411,
+            "macrocounty_id":1376953307,
+            "neighbourhood_id":1126107299,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":1126107299,
+    "wof:lastmodified":1566603276,
+    "wof:name":"Paradise Island",
+    "wof:parent_id":101935411,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.429265,
+    -28.006928,
+    153.429265,
+    -28.006928
+],
+  "geometry": {"coordinates":[153.42926499999999,-28.006928],"type":"Point"}
+}

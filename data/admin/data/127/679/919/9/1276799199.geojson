@@ -1,0 +1,96 @@
+{
+  "id": 1276799199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"131.60621,-30.15871,131.60621,-30.15871",
+    "geom:latitude":-30.15871,
+    "geom:longitude":131.60621,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"44000.0",
+    "gn:asciiname":"Maralinga",
+    "gn:country_code":"AU",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8604803,
+    "gn:latitude":-30.15871,
+    "gn:longitude":131.60621,
+    "gn:modification_date":"2015-01-30",
+    "gn:name":"Maralinga",
+    "gn:population":0,
+    "gn:timezone":"Australia/Adelaide",
+    "iso:country":"AU",
+    "lbl:bbox":"131.58621,-30.17871,131.62621,-30.13871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Maralinga"
+    ],
+    "name:fra_x_preferred":[
+        "Maralinga"
+    ],
+    "name:ind_x_preferred":[
+        "Maralinga"
+    ],
+    "name:nor_x_preferred":[
+        "Maralinga"
+    ],
+    "name:pol_x_preferred":[
+        "Maralinga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043b\u0438\u043d\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Maralinga"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0bb0\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632793,
+        136253039,
+        85681519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8604803
+    },
+    "wof:country":"AU",
+    "wof:geomhash":"65ca69089e6e83f42adccde481c86a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "empire_id":136253039,
+            "locality_id":1276799199,
+            "region_id":85681519
+        }
+    ],
+    "wof:id":1276799199,
+    "wof:lastmodified":1566600881,
+    "wof:name":"Maralinga",
+    "wof:parent_id":85681519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    131.60621,
+    -30.15871,
+    131.60621,
+    -30.15871
+],
+  "geometry": {"coordinates":[131.60621,-30.15871],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 1377004235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.42725,-28.017366,153.42725,-28.017366",
+    "geom:latitude":-28.017366,
+    "geom:longitude":153.42725,
+    "iso:country":"AU",
+    "lbl:bbox":"153.168910006,-28.250310586,153.552171235,-27.691836008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:cym_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:deu_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:eng_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:fin_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:fra_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e3 \u05d4\u05d6\u05d4\u05d1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30fc\u30eb\u30c9\u30fb\u30b3\u30fc\u30b9\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\uace8\ub4dc\ucf54\uc2a4\ud2b8"
+    ],
+    "name:mlg_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:pol_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:por_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0434-\u041a\u043e\u0441\u0442"
+    ],
+    "name:san_x_preferred":[
+        "\u0917\u094b\u0932\u094d\u0921 \u0915\u094b\u0938\u094d\u091f"
+    ],
+    "name:sco_x_preferred":[
+        "Gowd Coast"
+    ],
+    "name:slk_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:swa_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:swe_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:vie_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:yor_x_preferred":[
+        "Gold Coast"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u91d1\u6d77\u5cb8"
+    ],
+    "src:geom":"whosonfirst",
+    "src:geom_via":"aus-psma",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        1376953307,
+        404544235,
+        85632793,
+        136253039,
+        102049363
+    ],
+    "wof:breaches":[],
+    "wof:coterminous":[
+        1376953307
+    ],
+    "wof:country":"AU",
+    "wof:geomhash":"fc12f076f728f66602b3bdcdcc1ad3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049363,
+            "empire_id":136253039,
+            "localadmin_id":404544235,
+            "locality_id":1377004235,
+            "macrocounty_id":1376953307,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":1377004235,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1566601841,
+    "wof:name":"Gold Coast",
+    "wof:parent_id":404544235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.42725,
+    -28.017366,
+    153.42725,
+    -28.017366
+],
+  "geometry": {"coordinates":[153.42724999999999,-28.017366],"type":"Point"}
+}

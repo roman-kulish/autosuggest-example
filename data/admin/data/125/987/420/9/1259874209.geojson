@@ -1,0 +1,106 @@
+{
+  "id": 1259874209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.65,-38.53333,145.65,-38.53333",
+    "geom:latitude":-38.53333,
+    "geom:longitude":145.65,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"20740.0",
+    "gn:asciiname":"Forest Hill",
+    "gn:country_code":"AU",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2166334,
+    "gn:latitude":-38.53333,
+    "gn:longitude":145.65,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Forest Hill",
+    "gn:population":0,
+    "gn:timezone":"Australia/Melbourne",
+    "iso:country":"AU",
+    "lbl:bbox":"145.63,-38.55333,145.67,-38.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Forest Hill"
+    ],
+    "name:deu_x_preferred":[
+        "Forest Hill"
+    ],
+    "name:ita_x_preferred":[
+        "Forest Hill"
+    ],
+    "name:mlg_x_preferred":[
+        "Forest Hill"
+    ],
+    "name:nld_x_preferred":[
+        "Forest Hill"
+    ],
+    "name:pol_x_preferred":[
+        "Forest Hill"
+    ],
+    "name:por_x_preferred":[
+        "Forest Hill"
+    ],
+    "name:spa_x_preferred":[
+        "Forest Hill"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u043e\u0440\u0438\u0441\u0442 \u0425\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Forest Hill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681497,
+        102191583,
+        404538677,
+        85632793,
+        136253039,
+        102049085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2166334
+    },
+    "wof:country":"AU",
+    "wof:geomhash":"0f5cc3dbf25aee58441bb3a9b9de6c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049085,
+            "empire_id":136253039,
+            "localadmin_id":404538677,
+            "locality_id":1259874209,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":1259874209,
+    "wof:lastmodified":1566603573,
+    "wof:name":"Forest Hill",
+    "wof:parent_id":404538677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.65,
+    -38.53333,
+    145.65,
+    -38.53333
+],
+  "geometry": {"coordinates":[145.65000000000001,-38.53333],"type":"Point"}
+}

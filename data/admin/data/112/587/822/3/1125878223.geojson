@@ -1,0 +1,144 @@
+{
+  "id": 1125878223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.709516,-26.7859325,152.709516,-26.7859325",
+    "geom:latitude":-26.785933,
+    "geom:longitude":152.709516,
+    "gn:country":null,
+    "iso:country":"AU",
+    "lbl:bbox":"152.689516,-26.8059325,152.729516,-26.7659325",
+    "lbl:latitude":-26.785933,
+    "lbl:longitude":152.709516,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u064a\u0633\u062a\u0627\u0644 \u0648\u0648\u062a\u0631\u0632"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0631\u06cc\u0633\u062a\u0627\u0644 \u0648\u0627\u062a\u0631\u0632"
+    ],
+    "name:dan_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:deu_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:eng_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0633\u062a\u0627\u0644 \u0648\u0627\u062a\u0631\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:hun_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:ita_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:nld_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:pol_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:por_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0441\u0442\u0430\u043b \u0423\u043e\u0442\u0435\u0440\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:spa_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:swe_x_preferred":[
+        "Crystal Waters"
+    ],
+    "name:tur_x_preferred":[
+        "Crystal Waters"
+    ],
+    "qs_pg:aaroncc":"AU",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Crystal Waters",
+    "qs_pg:name_adm0":"Australia",
+    "qs_pg:name_adm1":"Queensland",
+    "qs_pg:photos":456,
+    "qs_pg:photos_1k":92,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":456,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":901211,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424748,
+    "qs_pg:woe_id":28584715,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424748,
+    "woe:name_adm0":"Australia",
+    "woe:name_adm1":"Queensland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        1376953259,
+        404541775,
+        85632793,
+        136253039,
+        102049303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28584715,
+        "qs_pg:id":901211,
+        "wd:id":"Q2491908"
+    },
+    "wof:country":"AU",
+    "wof:created":1497294653,
+    "wof:geomhash":"b9eca5c8f826de7552e7697a6e26c652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049303,
+            "empire_id":136253039,
+            "localadmin_id":404541775,
+            "locality_id":1125878223,
+            "macrocounty_id":1376953259,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":1125878223,
+    "wof:lastmodified":1566603340,
+    "wof:name":"Crystal Waters",
+    "wof:parent_id":404541775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.709516,
+    -26.7859325,
+    152.709516,
+    -26.7859325
+],
+  "geometry": {"coordinates":[152.70951600000001,-26.7859325],"type":"Point"}
+}

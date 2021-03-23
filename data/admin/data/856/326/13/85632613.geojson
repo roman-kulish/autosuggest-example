@@ -1,0 +1,349 @@
+{
+  "id": 85632613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00024,
+    "geom:area_square_m":2896139.254157,
+    "geom:bbox":"122.928001,-12.532583,123.559525,-12.249611",
+    "geom:latitude":-12.29014,
+    "geom:longitude":123.027562,
+    "iso:country":"XY",
+    "iso:parent":"AU",
+    "lbl:latitude":-12.273766,
+    "lbl:longitude":122.968311,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
+    "mps:latitude":-12.273766,
+    "mps:longitude":122.968311,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":9.5,
+    "mz:min_zoom":4.5,
+    "name:afr_x_preferred":[
+        "Ashmore- en Cartiereilande"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0623\u0634\u0645\u0648\u0631 \u0648\u0643\u0627\u0631\u062a\u064a\u064a\u0631"
+    ],
+    "name:arg_x_preferred":[
+        "Islas Ashmore y Cartier"
+    ],
+    "name:ast_x_preferred":[
+        "Isles Ashmore y Cartier"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u0432\u044b \u0410\u0448\u043c\u043e\u0440 \u0456 \u041a\u0430\u0440\u0446\u044c\u0435"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0441\u0442\u0440\u0430\u0432\u044b \u0410\u0448\u043c\u043e\u0440 \u0456 \u041a\u0430\u0440\u0442\u2019\u0435"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b8\u09ae\u09b0 \u098f\u09ac\u0982 \u0995\u09be\u09b0\u09cd\u099f\u09bf\u09af\u09bc\u09c7 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:bos_x_preferred":[
+        "Ostrva Ashmore i Cartier"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0448\u043c\u043e\u0440 \u0438 \u041a\u0430\u0440\u0442\u0438\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Illes Ashmore i Cartier"
+    ],
+    "name:ceb_x_preferred":[
+        "Territory of Ashmore and Cartier Islands"
+    ],
+    "name:ces_x_preferred":[
+        "Ostrovy Ashmore a Cartier"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0648\u0648\u0631\u06af\u06d5\u06a9\u0627\u0646\u06cc \u0626\u06d5\u0634\u0645\u06c6\u0631 \u0648 \u06a9\u0627\u0631\u062a\u06cc\u06d5\u0631"
+    ],
+    "name:dan_x_colloquial":[
+        "Ashmore og Cartieroerne"
+    ],
+    "name:dan_x_preferred":[
+        "Ashmore og Cartier\u00f8erne"
+    ],
+    "name:dan_x_variant":[
+        "Ashmore and Cartier \u00d8erne"
+    ],
+    "name:deu_x_preferred":[
+        "Ashmore und Cartier"
+    ],
+    "name:deu_x_variant":[
+        "Ashmore- und Cartierinseln"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03c3\u03bc\u03bf\u03c1 \u03ba\u03b1\u03b9 \u039a\u03b1\u03c1\u03c4\u03b9\u03ad \u039d\u03b7\u03c3\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Ashmore and Cartier Islands"
+    ],
+    "name:eng_x_variant":[
+        "Ashmore and Cartier",
+        "Territory of Ashmore and Cartier Islands"
+    ],
+    "name:epo_x_preferred":[
+        "A\u015dmora kaj Kartia Insuloj"
+    ],
+    "name:est_x_preferred":[
+        "Ashmore ja Cartier"
+    ],
+    "name:eus_x_preferred":[
+        "Ashmore eta Cartier uharteak"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647\u200c\u0647\u0627\u06cc \u0622\u0634\u0645\u0648\u0631 \u0648 \u06a9\u0627\u0631\u062a\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Ashmore-Ja Cartiersaaret"
+    ],
+    "name:fin_x_variant":[
+        "Ashmore- ja Cartiersaaret"
+    ],
+    "name:fra_x_colloquial":[
+        "Iles Ashmore et Cartier"
+    ],
+    "name:fra_x_preferred":[
+        "\u00celes Ashmore et Cartier"
+    ],
+    "name:fra_x_variant":[
+        "Ashmore et Cartier",
+        "Territoire des \u00eeles Ashmore et Cartier",
+        "\u00celes Ashmore-et-Cartier"
+    ],
+    "name:fry_x_preferred":[
+        "Ashmore- en Cartiereilannen"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Ashmore e Cartier"
+    ],
+    "name:glv_x_preferred":[
+        "Ellanyn Ashmore as Cartier"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab6\u0aae\u0acb\u0ab0 \u0a8f\u0aa8\u0acd\u0aa1 \u0a95\u0abe\u0ab0\u0acd\u0a9f\u0ac7\u0ab0 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:hbs_x_preferred":[
+        "Otoci Ashmore i Cartier"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05d0\u05e9\u05de\u05d5\u05e8 \u05d5\u05e7\u05e8\u05d8\u05d9\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0936\u092e\u094b\u0930 \u0914\u0930 \u0915\u093e\u0930\u094d\u091f\u093f\u092f\u0930 \u0926\u094d\u0935\u0940\u092a \u0938\u092e\u0942\u0939"
+    ],
+    "name:hrv_x_preferred":[
+        "Otoci Ashmore i Cartier"
+    ],
+    "name:hun_x_preferred":[
+        "Ashmore- \u00e9s Cartier-szigetek"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0577\u0574\u0578\u0580 \u0587 \u053f\u0561\u0580\u057f\u0575\u0565 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Ashmore dan Cartier"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Ashmore e Cartier"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b7\u30e5\u30e2\u30a2\u30fb\u30ab\u30eb\u30c6\u30a3\u30a8\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0cb6\u0ccd\u0cae\u0ccb\u0cb0\u0ccd \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c95\u0cbe\u0cb0\u0ccd\u0c9f\u0cbf\u0caf\u0cb0\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e8\u10db\u10dd\u10e0\u10d8\u10e1\u10d0 \u10d3\u10d0 \u10d9\u10d0\u10e0\u10e2\u10d8\u10d4\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10d4\u10e8\u10db\u10dd\u10e0\u10d8\u10e1 \u10d3\u10d0 \u10d9\u10d0\u10e0\u10e2\u10d8\u10d4\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0448\u043c\u043e\u0440 \u0436\u04d9\u043d\u0435 \u041a\u0430\u0440\u0442\u044c\u0435 \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc26c\ubaa8 \uc564 \uce74\ud2f0\uc544\uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\uc560\uc2dc\ubaa8\uc5b4 \uce74\ub974\ud2f0\uc5d0 \uc81c\ub3c4"
+    ],
+    "name:lav_x_preferred":[
+        "A\u0161mora un Kartj\u0113 Salas"
+    ],
+    "name:lit_x_preferred":[
+        "E\u0161moro ir Kartj\u0117 salos"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d06\u0d37\u0d4d\u0d2e\u0d4b\u0d7c \u0d15\u0d3e\u0d7c\u0d1f\u0d4d\u0d1f\u0d3f\u0d2f\u0d7c \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d7e"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0945\u0936\u092e\u094b\u0930 \u0906\u0923\u093f \u0915\u093e\u0930\u094d\u091f\u093f\u092f\u0930 \u0926\u094d\u0935\u0940\u092a\u0947"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0448\u043c\u043e\u0440 \u0438 \u041a\u0430\u0440\u0442\u0438\u0435"
+    ],
+    "name:mon_x_preferred":[
+        "\u042d\u0448\u043c\u043e\u0440 \u0431\u0430 \u041a\u0430\u0440\u0442\u044c\u0435\u0440 \u0410\u0440\u043b\u0443\u0443\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Kepulauan Ashmore dan Cartier"
+    ],
+    "name:nld_x_preferred":[
+        "Ashmore- en Cartiereilanden"
+    ],
+    "name:nob_x_preferred":[
+        "Ashmore og Cartier\u00f8yene"
+    ],
+    "name:nor_x_preferred":[
+        "Ashmore og Cartier Islands"
+    ],
+    "name:oci_x_preferred":[
+        "Illas Ashmore e Cartier"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspy Ashmore i Cartiera"
+    ],
+    "name:por_x_preferred":[
+        "Ilhas Ashmore e Cartier"
+    ],
+    "name:ron_x_preferred":[
+        "Insulele Ashmore \u0219i Cartier"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0410\u0448\u043c\u043e\u0440 \u0438 \u041a\u0430\u0440\u0442\u044c\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Ashmore an Cartier Islands"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dc1\u0dca\u0db8\u0ddd\u0dbb\u0dca \u0dc3\u0dc4 \u0d9a\u0dcf\u0dbb\u0dca\u0da7\u0dd2\u0dba\u0dbb\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Ashmorov a Cartierov ostrov"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Ashmore y Cartier"
+    ],
+    "name:spa_x_variant":[
+        "Ashmore y Cartier"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0432\u0430 \u0410\u0448\u043c\u043e\u0440 \u0438 \u041a\u0430\u0440\u0442\u0438\u0458\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0432\u0430 \u0410\u0448\u043c\u043e\u0440 \u0438 \u041a\u0430\u0440\u0442\u0438\u0458\u0435"
+    ],
+    "name:sun_x_preferred":[
+        "Kapuloan Ashmore jeung Cartier"
+    ],
+    "name:swe_x_colloquial":[
+        "Ashmore-Och Cartieroarna"
+    ],
+    "name:swe_x_preferred":[
+        "Ashmore-Och Cartier\u00f6arna"
+    ],
+    "name:swe_x_variant":[
+        "Ashmore- och Cartier\u00f6arna"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0bb7\u0bcd\u0bae\u0bcb\u0bb0\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb0\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c37\u0c4d\u0c2e\u0c4b\u0c30\u0c4d \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c15\u0c3e\u0c30\u0c4d\u0c1f\u0c3f\u0c2f\u0c46 \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e41\u0e2d\u0e0a\u0e21\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e30\u0e40\u0e01\u0e32\u0e30\u0e04\u0e32\u0e23\u0e4c\u0e40\u0e17\u0e35\u0e22\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Ashmore ve Cartier Adalar\u0131"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u0627\u0634\u0645\u0648\u0631\u06d5 \u06cb\u06d5 \u0643\u0627\u0631\u062a\u0649\u0626\u06d5\u0631 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0410\u0448\u043c\u043e\u0440 \u0456 \u041a\u0430\u0440\u0442\u044c\u0454"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631 \u0627\u06cc\u0634\u0645\u0648\u0631 \u0648 \u06a9\u0627\u0631\u0679\u06cc\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Ashmore v\u00e0 Cartier"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10e8\u10db\u10dd\u10e0\u10d8\u10e8 \u10d3\u10dd \u10d9\u10d0\u10e0\u10e2\u10d8\u10d4\u10e8 \u10d9\u10dd\u10d9\u10d4\u10e4\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "\u00c0w\u1ecdn Er\u00e9k\u00f9\u1e63\u00f9 Ashmore \u00e0ti Cartier"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4ec0\u83ab\u5c14\u548c\u5361\u6377\u5c9b"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u4ec0\u83ab\u723e\u5cf6\u8207\u5361\u6377\u5cf6",
+        "\u963f\u4ec0\u83ab\u5c14\u548c\u5361\u6377\u5c9b"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u4e9e\u4ec0\u6469\u540c\u5361\u5730\u723e\u7fa4\u5cf6"
+    ],
+    "qs:a0":"Ashmore and Cartier Islands",
+    "qs:adm0":"Ashmore and Cartier Islands",
+    "qs:adm0_a3":"ATC",
+    "qs:level":"adm0",
+    "qs:scale":200000,
+    "qs:source":"US State Department, with Natural Earth mods",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        136253039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AT",
+        "gn:id":2077507,
+        "gp:id":23424749,
+        "hasc:id":"AU.AS",
+        "qs_pg:id":134662,
+        "wd:id":"Q133888"
+    },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
+    "wof:country":"AU",
+    "wof:geomhash":"5d27cf5225feca92bf90fdb2e516d0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "dependency_id":85632613,
+            "empire_id":136253039
+        }
+    ],
+    "wof:id":85632613,
+    "wof:lastmodified":1587427882,
+    "wof:name":"Ashmore and Cartier Is.",
+    "wof:parent_id":136253039,
+    "wof:placetype":"dependency",
+    "wof:placetype_alt":[
+        "region"
+    ],
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85681151
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.928001,
+    -12.532583,
+    123.559525,
+    -12.249611
+],
+  "geometry": {"coordinates":[[[[123.55725099999999,-12.532111],[123.554863,-12.532583],[123.55358099999999,-12.53225],[123.552864,-12.531083],[123.554558,-12.528277],[123.55650300000001,-12.527361],[123.557892,-12.527528],[123.55952499999999,-12.53],[123.55725099999999,-12.532111]]],[[[122.973083,-12.277416],[122.968636,-12.279722],[122.963753,-12.277638],[122.962585,-12.276111],[122.962112,-12.272889],[122.96444700000001,-12.268695],[122.969109,-12.268473],[122.971664,-12.268917],[122.972832,-12.269834],[122.97447200000001,-12.273583],[122.973083,-12.277416]]],[[[123.01366400000001,-12.263083],[123.012169,-12.263389],[123.011223,-12.263083],[123.010391,-12.260917],[123.01063499999999,-12.260111],[123.011696,-12.25975],[123.013336,-12.26],[123.014084,-12.262417],[123.01366400000001,-12.263083]]],[[[122.940392,-12.25675],[122.934776,-12.257944],[122.930115,-12.25675],[122.92800099999999,-12.252611],[122.928696,-12.251],[122.933609,-12.249611],[122.936249,-12.250083],[122.939697,-12.253305],[122.940392,-12.25675]]],[[[123.029335,-12.266889],[123.02703099999999,-12.26825],[123.025696,-12.266833],[123.025581,-12.265278],[123.02597,-12.264584],[123.028442,-12.26475],[123.02903000000001,-12.265445],[123.029335,-12.266889]]],[[[123.09530599999999,-12.264112],[123.093887,-12.264973],[123.091331,-12.264277],[123.089973,-12.262333],[123.090446,-12.261139],[123.091919,-12.260278],[123.094475,-12.260777],[123.09530599999999,-12.261806],[123.095947,-12.2625],[123.09530599999999,-12.264112]]]],"type":"MultiPolygon"}
+}

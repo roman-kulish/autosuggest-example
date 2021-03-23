@@ -1,0 +1,321 @@
+{
+  "id": 101938353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1523033.573597,
+    "geom:bbox":"133.874632,-23.7077481765,133.886460448,-23.6867979995",
+    "geom:latitude":-23.696965,
+    "geom:longitude":133.88176,
+    "gn:population":25186,
+    "iso:country":"AU",
+    "lbl:latitude":-23.698651,
+    "lbl:longitude":133.882345,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
+    "mps:latitude":-23.698651,
+    "mps:longitude":133.882345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":9.0,
+    "name:afr_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u064a\u0633 \u0633\u0628\u0631\u064a\u0646\u063a\u0632"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u0456\u0441-\u0421\u043f\u0440\u044b\u043d\u0433\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09cd\u09af\u09be\u09b2\u09bf\u09b8 \u09b8\u09cd\u09aa\u09cd\u09b0\u09bf\u0982\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0438\u0441 \u0421\u043f\u0440\u0438\u043d\u0433\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:ceb_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:ces_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:cym_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:dan_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:deu_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bb\u03b9\u03c2 \u03a3\u03c0\u03c1\u03b9\u03bd\u03b3\u03ba\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Stuart"
+    ],
+    "name:eng_x_variant":[
+        "Alice Springs"
+    ],
+    "name:epo_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:est_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:eus_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:fao_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u06cc\u0633 \u0627\u0633\u067e\u0631\u06cc\u0646\u06af\u0632"
+    ],
+    "name:fin_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:fra_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:fry_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:gle_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:glg_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab2\u0abf\u0ab8 \u0ab8\u0acd\u0aaa\u0acd\u0ab0\u0abf\u0a82\u0a97\u0acd\u0ab8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d9\u05e1 \u05e1\u05e4\u05e8\u05d9\u05e0\u05d2\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0910\u0932\u093f\u0938 \u0938\u094d\u092a\u094d\u0930\u093f\u0902\u0917\u094d\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:hun_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:ido_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:ind_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:ita_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ea\u30b9\u30b9\u30d7\u30ea\u30f3\u30b0\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0cb2\u0cbf\u0cb8\u0ccd \u0cb8\u0ccd\u0caa\u0ccd\u0cb0\u0cbf\u0c82\u0c97\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8\u10e1-\u10e1\u10de\u10e0\u10d8\u10dc\u10d2\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc568\ub9ac\uc2a4\uc2a4\ud504\ub9c1\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Alisspringsa"
+    ],
+    "name:lit_x_preferred":[
+        "Elis Springsas"
+    ],
+    "name:ltz_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d06\u0d32\u0d40\u0d38\u0d4d \u0d38\u0d4d\u0d2a\u0d4d\u0d30\u0d3f\u0d19\u0d4d\u0d38\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0972\u0932\u093f\u0938 \u0938\u094d\u092a\u094d\u0930\u093f\u0902\u0917\u094d\u091c"
+    ],
+    "name:mlg_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:msa_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:nep_x_preferred":[
+        "\u0905\u0932\u093e\u0907\u0938 \u0938\u094d\u092a\u094d\u0930\u093f\u0919\u094d\u0938"
+    ],
+    "name:nld_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:nno_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:nob_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:nor_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:oci_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u043b\u0438\u0441-\u0421\u043f\u0440\u0438\u043d\u0433\u0441"
+    ],
+    "name:pih_x_preferred":[
+        "Alis Springs"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u06cc\u0644\u0633 \u0633\u067e\u0631\u0646\u06af\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:por_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:ron_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0438\u0441-\u0421\u043f\u0440\u0438\u043d\u0433\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d87\u0dbd\u0dd2\u0dc3\u0dca \u0dc3\u0dca\u0db4\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca\u0d9c\u0dca\u0dc3\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:slv_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:spa_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0438\u0441 \u0421\u043f\u0440\u0438\u043d\u0433\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb2\u0bc8\u0bb8\u0bcd \u0bb8\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b99\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c32\u0c3f\u0c38\u0c4d \u0c38\u0c4d\u0c2a\u0c4d\u0c30\u0c3f\u0c02\u0c17\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e25\u0e34\u0e0b\u0e2a\u0e1b\u0e23\u0e34\u0e07\u0e2a\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0456\u0441-\u0421\u043f\u0440\u0456\u043d\u0433\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0627\u0644\u06a9 \u0627\u0633\u067e\u0631\u0646\u06af\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u06cc\u0644\u0633 \u0627\u0633\u067e\u0631\u0646\u06af\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Alice Springs"
+    ],
+    "name:yue_x_preferred":[
+        "\u611b\u9e97\u7d72\u576a"
+    ],
+    "name:zho_x_preferred":[
+        "\u611b\u9e97\u65af\u6cc9"
+    ],
+    "qs:a0":"Australia",
+    "qs:a1":"*Northern Territory",
+    "qs:a1_lc":"7",
+    "qs:a1r":"*",
+    "qs:adm0":"Australia",
+    "qs:id":0,
+    "qs:la":"Alice Springs",
+    "qs:la_lc":"*SSC70005",
+    "qs:level":"locality1",
+    "qs:loc":"Alice Springs",
+    "qs:pop":0,
+    "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":-23.7,
+    "wd:longitude":133.866667,
+    "wd:population":28605,
+    "wd:wordcount":6516,
+    "wof:belongsto":[
+        85681533,
+        102191583,
+        1376953387,
+        404549623,
+        85632793,
+        136253039,
+        102048753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"034aef70-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2077895,
+        "gp:id":1099853,
+        "qs_pg:id":1109735,
+        "wd:id":"Q17872",
+        "wk:page":"Alice Springs"
+    },
+    "wof:coterminous":[
+        404549623
+    ],
+    "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"450c0a118e8dd29afb6e20acc0dcb54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048753,
+            "empire_id":136253039,
+            "localadmin_id":404549623,
+            "locality_id":101938353,
+            "macrocounty_id":1376953387,
+            "region_id":85681533
+        }
+    ],
+    "wof:id":101938353,
+    "wof:lastmodified":1582312969,
+    "wof:name":"Alice Springs",
+    "wof:parent_id":404549623,
+    "wof:placetype":"locality",
+    "wof:population":28605,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    133.874632,
+    -23.7077481765,
+    133.886460448,
+    -23.6867979995
+],
+  "geometry": {"coordinates":[[[133.880419808,-23.7043901675],[133.879137472,-23.7038571085],[133.878184576,-23.7034609125],[133.87773347200002,-23.703447685],[133.87755420799999,-23.70344454],[133.87604300800001,-23.702832005],[133.87620099200001,-23.702280002],[133.87582211200001,-23.702013195],[133.875855008,-23.701944153],[133.875928448,-23.7018127475],[133.87599648,-23.7016832475],[133.876131136,-23.7013979405],[133.876206368,-23.7012268525],[133.87628556800001,-23.7010899525],[133.87686371200002,-23.7009079865],[133.87777030399999,-23.6991161505],[133.87778208,-23.699092859],[133.87834272000001,-23.6977524415],[133.87844268800001,-23.6975134585],[133.87869011200002,-23.6970421155],[133.87972140799997,-23.6950147745],[133.87960000000001,-23.694954002],[133.87961999999999,-23.6947959935],[133.87962400000001,-23.694582004],[133.879592,-23.6943849975],[133.87953900799997,-23.6942260085],[133.87946099199999,-23.6940450045],[133.87934000000001,-23.6938620025],[133.87920399999999,-23.693689009],[133.87907699199999,-23.693558991],[133.878996,-23.69349499949989],[133.87812198400002,-23.6928270015],[133.87798899200001,-23.692694005],[133.87782000000001,-23.6924959995],[133.87757699199997,-23.692183997],[133.876150016,-23.6903729950001],[133.87522799999999,-23.6891699955],[133.87489100799999,-23.688666999],[133.87463199999999,-23.6881719945],[133.874763008,-23.687890998],[133.875214016,-23.6876889965],[133.876471968,-23.687358827],[133.876730272,-23.688618196],[133.87735724800001,-23.689288192],[133.88030492799996,-23.691099342],[133.880426656,-23.6910008295],[133.880615584,-23.69082976],[133.88080569599998,-23.6906590605],[133.88210601599999,-23.689523919],[133.88169452799997,-23.6888968615],[133.88229142399999,-23.688615236],[133.88273046399999,-23.68897569],[133.88522,-23.6867979995],[133.88610230399999,-23.6870279545],[133.88545120000001,-23.688679135],[133.88554236799999,-23.6908789145],[133.88571020800001,-23.690926145],[133.88595695999999,-23.691875047],[133.88608022399998,-23.6923251335],[133.88600342399997,-23.6923411545],[133.886191008,-23.693188991],[133.886192032,-23.697368178],[133.88646044800001,-23.6974073055],[133.886424992,-23.6975349925],[133.88620124799999,-23.700806181],[133.885840672,-23.7015367275],[133.88504800000001,-23.7031529985],[133.88505798399999,-23.70327099149999],[133.885028608,-23.7035201125],[133.88490899199999,-23.703797002],[133.883932544,-23.7041534415],[133.882048736,-23.707566377],[133.88175340800001,-23.7077481765],[133.88044176,-23.706340382],[133.88056899200001,-23.7060444745],[133.87964435200001,-23.705489974],[133.880419808,-23.7043901675]]],"type":"Polygon"}
+}

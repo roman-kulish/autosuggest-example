@@ -1,0 +1,59 @@
+{
+  "id": 504782707,
+  "type": "Feature",
+  "properties": {
+    "clustr:alpha":1.0,
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.129907,
+    "geom:area_square_m":1372242886.643814,
+    "geom:bbox":"118.749397278,-31.5892677307,119.033119202,-30.9899616241",
+    "geom:latitude":-31.325742,
+    "geom:longitude":118.893447,
+    "gp:parent_id":"55864017",
+    "iso:country":"AU",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
+    "wof:belongsto":[
+        85681439,
+        102191583,
+        404547841,
+        85632793,
+        102049615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12709096"
+    },
+    "wof:country":"AU",
+    "wof:geomhash":"629e860eb42e5cfa5921c9e2592604f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049615,
+            "localadmin_id":404547841,
+            "postalcode_id":504782707,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":504782707,
+    "wof:lastmodified":1480880877,
+    "wof:name":"6424",
+    "wof:parent_id":404547841,
+    "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.74939727783203,
+    -31.58926773071289,
+    119.03311920166016,
+    -30.98996162414551
+],
+  "geometry": {"coordinates":[[[119.02671813964844,-31.40366744995117],[119.02622985839844,-31.55709266662598],[118.86923217773438,-31.58926773071289],[118.75968170166016,-31.54664993286133],[118.74939727783203,-31.28093719482422],[118.75703430175781,-31.24517250061035],[118.8773193359375,-30.98996162414551],[118.92696380615234,-31.01291275024414],[118.98179626464844,-31.10048484802246],[119.03311920166016,-31.27485847473145],[119.02671813964844,-31.40366744995117]]],"type":"Polygon"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1326642691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.07817,-32.01851,149.07817,-32.01851",
+    "geom:latitude":-32.01851,
+    "geom:longitude":149.07817,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"18020.0",
+    "gn:asciiname":"Nathan",
+    "gn:country_code":"AU",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8614384,
+    "gn:latitude":-32.01851,
+    "gn:longitude":149.07817,
+    "gn:modification_date":"2014-06-16",
+    "gn:name":"Nathan",
+    "gn:population":0,
+    "gn:timezone":"Australia/Sydney",
+    "iso:country":"AU",
+    "lbl:bbox":"149.05817,-32.03851,149.09817,-31.99851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Nathan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u062a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Nathan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05ea\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Nathan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30a4\u30b5\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub124\uc774\uc120"
+    ],
+    "name:spa_x_preferred":[
+        "Nathan"
+    ],
+    "name:vie_x_preferred":[
+        "Nathan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        404223109,
+        85632793,
+        136253039,
+        102049559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8614384
+    },
+    "wof:country":"AU",
+    "wof:geomhash":"c4130cd75691c227c8608c8cff571eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049559,
+            "empire_id":136253039,
+            "localadmin_id":404223109,
+            "locality_id":1326642691,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":1326642691,
+    "wof:lastmodified":1566599975,
+    "wof:name":"Nathan",
+    "wof:parent_id":404223109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.07817,
+    -32.01851,
+    149.07817,
+    -32.01851
+],
+  "geometry": {"coordinates":[149.07817,-32.01851],"type":"Point"}
+}

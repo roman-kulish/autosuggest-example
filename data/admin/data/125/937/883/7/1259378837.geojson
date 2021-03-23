@@ -1,0 +1,100 @@
+{
+  "id": 1259378837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.00294,-30.91422,122.00294,-30.91422",
+    "geom:latitude":-30.91422,
+    "geom:longitude":122.00294,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"54280.0",
+    "gn:asciiname":"Curtin",
+    "gn:country_code":"AU",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8648376,
+    "gn:latitude":-30.91422,
+    "gn:longitude":122.00294,
+    "gn:modification_date":"2014-06-16",
+    "gn:name":"Curtin",
+    "gn:population":0,
+    "gn:timezone":"Australia/Perth",
+    "iso:country":"AU",
+    "lbl:bbox":"121.98294,-30.93422,122.02294,-30.89422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Curtin"
+    ],
+    "name:eng_x_preferred":[
+        "Curtin"
+    ],
+    "name:fra_x_preferred":[
+        "Curtin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d8\u05d9\u05df"
+    ],
+    "name:nds_x_preferred":[
+        "Curtin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0451\u0440\u0442\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Curtin"
+    ],
+    "name:zho_x_preferred":[
+        "\u67ef\u5ef7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681439,
+        102191583,
+        404547859,
+        85632793,
+        136253039,
+        102049523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8648376
+    },
+    "wof:country":"AU",
+    "wof:geomhash":"37fffb9cf5f88adb02abf07a6e092b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049523,
+            "empire_id":136253039,
+            "localadmin_id":404547859,
+            "locality_id":1259378837,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":1259378837,
+    "wof:lastmodified":1566603548,
+    "wof:name":"Curtin",
+    "wof:parent_id":404547859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.00294,
+    -30.91422,
+    122.00294,
+    -30.91422
+],
+  "geometry": {"coordinates":[122.00294,-30.91422],"type":"Point"}
+}

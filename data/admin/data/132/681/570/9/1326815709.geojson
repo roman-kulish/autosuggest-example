@@ -1,0 +1,205 @@
+{
+  "id": 1326815709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.93523,-28.33394,116.93523,-28.33394",
+    "geom:latitude":-28.33394,
+    "geom:longitude":116.93523,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"59590.0",
+    "gn:asciiname":"Wagga Wagga",
+    "gn:country_code":"AU",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646255,
+    "gn:latitude":-28.33394,
+    "gn:longitude":116.93523,
+    "gn:modification_date":"2014-06-16",
+    "gn:name":"Wagga Wagga",
+    "gn:population":0,
+    "gn:timezone":"Australia/Perth",
+    "iso:country":"AU",
+    "lbl:bbox":"116.91523,-28.35394,116.95523,-28.31394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062c\u0627 \u0648\u0627\u062c\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u0642\u0627 \u0648\u0627\u0642\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Uoaqqa-Uoaqqa"
+    ],
+    "name:bre_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0430\u0433\u0430 \u0423\u0430\u0433\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:ces_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0648\u0627\u06af\u0627 \u0648\u0627\u06af\u0627"
+    ],
+    "name:cym_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:dan_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:deu_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:eng_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:est_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06af\u0627 \u0648\u0627\u06af\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:fra_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:gle_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d0\u05d2\u05d4 \u05d5\u05d5\u05d0\u05d2\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:ita_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a9\u30ac\u30a6\u30a9\u30ac"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10d2\u10d0-\u10e3\u10d0\u10d2\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc640\uac00\uc640\uac00"
+    ],
+    "name:lat_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:lit_x_preferred":[
+        "Vaga Vaga"
+    ],
+    "name:mlg_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:mon_x_preferred":[
+        "\u0423\u043e\u0433\u0433\u0430-\u0423\u043e\u0433\u0433\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:nor_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0627\u06af\u0627 \u0648\u0627\u06af\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:por_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043e\u0433\u0433\u0430-\u0423\u043e\u0433\u0433\u0430"
+    ],
+    "name:san_x_preferred":[
+        "\u0935\u093e\u0917\u094d\u0917\u093e \u0935\u093e\u0917\u094d\u0917\u093e"
+    ],
+    "name:spa_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0433\u0430 \u0412\u043e\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:szl_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:tur_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0433\u0433\u0430-\u0412\u043e\u0433\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u06af\u0627 \u0648\u0627\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Wagga Wagga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u52a0\u6c83\u52a0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681439,
+        102191583,
+        404548633,
+        85632793,
+        136253039,
+        102048917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646255
+    },
+    "wof:country":"AU",
+    "wof:geomhash":"fcbd27bc1f20ac89d761d32d90adb6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048917,
+            "empire_id":136253039,
+            "localadmin_id":404548633,
+            "locality_id":1326815709,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":1326815709,
+    "wof:lastmodified":1566599928,
+    "wof:name":"Wagga Wagga",
+    "wof:parent_id":404548633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    116.93523,
+    -28.33394,
+    116.93523,
+    -28.33394
+],
+  "geometry": {"coordinates":[116.93523,-28.33394],"type":"Point"}
+}

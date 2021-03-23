@@ -1,0 +1,220 @@
+{
+  "id": 85779461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.255681,-33.901467,151.255681,-33.901467",
+    "geom:latitude":-33.901467,
+    "geom:longitude":151.255681,
+    "gn:id":"",
+    "iso:country":"AU",
+    "lbl:bbox":"151.250681,-33.906467,151.260681,-33.896467",
+    "lbl:latitude":-33.903,
+    "lbl:longitude":151.255245,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":-33.901378,
+    "mps:longitude":151.255755,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":6,
+    "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0627\u0631\u064a\u0646\u063a \u0643\u0631\u0648\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0686\u0631\u06cc\u0646\u0642 \u06a9\u0631\u0627\u0633"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0440\u044b\u043d\u0433-\u041a\u0440\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:ces_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:cym_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:dan_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:deu_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:eng_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:est_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u06cc\u0646\u06af \u06a9\u0631\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:fra_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:fry_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:gle_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e8\u05d9\u05e0\u05d2 \u05e7\u05e8\u05d5\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:isl_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:ita_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30ea\u30f3\u30b0\u30fb\u30af\u30ed\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc44\ub9c1\ud06c\ub85c\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:nno_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:nor_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:pol_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:por_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0440\u0438\u043d\u0433-\u041a\u0440\u043e\u0441\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:spa_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:swe_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:tur_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0440\u0456\u043d\u0433-\u043a\u0440\u043e\u0441\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0631\u0646\u06af \u06a9\u0631\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Charing Cross"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u4ee4\u5341\u5b57"
+    ],
+    "qs:gn_adm0_cc":"AU",
+    "qs:gn_id":0,
+    "qs:gn_local":2147714,
+    "qs:local_max":35533,
+    "qs:local_sum":687549,
+    "qs:localhoods":516,
+    "qs:name":"Charing Cross",
+    "qs:name_adm0":"Australia",
+    "qs:name_adm1":"New South Wales",
+    "qs:name_adm2":"City of Waverley",
+    "qs:name_local":"Sydney",
+    "qs:photo_max":47,
+    "qs:photo_sum":47,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424748,
+    "qs:woe_adm1":2344700,
+    "qs:woe_adm2":55864171,
+    "qs:woe_lau":0,
+    "qs:woe_local":1105779,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mz",
+    "wd:wordcount":2676,
+    "wof:belongsto":[
+        102191583,
+        1376953385,
+        404226923,
+        85632793,
+        101932269,
+        136253039,
+        102049285,
+        85681545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28584503,
+        "qs_pg:id":1285683
+    },
+    "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"2b59bb864767f905f9aa9b8c3c8fd986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049285,
+            "empire_id":136253039,
+            "localadmin_id":404226923,
+            "locality_id":101932269,
+            "macrocounty_id":1376953385,
+            "neighbourhood_id":85779461,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":85779461,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1582312821,
+    "wof:name":"Charing Cross",
+    "wof:parent_id":101932269,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.255681,
+    -33.901467,
+    151.255681,
+    -33.901467
+],
+  "geometry": {"coordinates":[151.25568100000001,-33.901467],"type":"Point"}
+}

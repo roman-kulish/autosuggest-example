@@ -1,0 +1,103 @@
+{
+  "id": 1293883959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.25868,-22.98305,150.25868,-22.98305",
+    "geom:latitude":-22.98305,
+    "geom:longitude":150.25868,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"36360.0",
+    "gn:asciiname":"Balmoral",
+    "gn:country_code":"AU",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8599676,
+    "gn:latitude":-22.98305,
+    "gn:longitude":150.25868,
+    "gn:modification_date":"2014-06-16",
+    "gn:name":"Balmoral",
+    "gn:population":0,
+    "gn:timezone":"Australia/Brisbane",
+    "iso:country":"AU",
+    "lbl:bbox":"150.23868,-23.00305,150.27868,-22.96305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Balmoral"
+    ],
+    "name:deu_x_preferred":[
+        "Balmoral"
+    ],
+    "name:eng_x_preferred":[
+        "Balmoral"
+    ],
+    "name:fra_x_preferred":[
+        "Balmoral"
+    ],
+    "name:ita_x_preferred":[
+        "Balmoral"
+    ],
+    "name:mlg_x_preferred":[
+        "Balmoral"
+    ],
+    "name:nds_x_preferred":[
+        "Balmoral"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043c\u043e\u0440\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Balmoral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404544179,
+        85632793,
+        136253039,
+        102048825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8599676
+    },
+    "wof:country":"AU",
+    "wof:geomhash":"8300bece3c6a894a582ab3a5625eaa79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048825,
+            "empire_id":136253039,
+            "localadmin_id":404544179,
+            "locality_id":1293883959,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":1293883959,
+    "wof:lastmodified":1566600827,
+    "wof:name":"Balmoral",
+    "wof:parent_id":404544179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.25868,
+    -22.98305,
+    150.25868,
+    -22.98305
+],
+  "geometry": {"coordinates":[150.25868,-22.98305],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1259690151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.46051,-24.19321,150.46051,-24.19321",
+    "geom:latitude":-24.19321,
+    "geom:longitude":150.46051,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"30370.0",
+    "gn:asciiname":"Annandale",
+    "gn:country_code":"AU",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8634401,
+    "gn:latitude":-24.19321,
+    "gn:longitude":150.46051,
+    "gn:modification_date":"2014-06-15",
+    "gn:name":"Annandale",
+    "gn:population":0,
+    "gn:timezone":"Australia/Brisbane",
+    "iso:country":"AU",
+    "lbl:bbox":"150.44051,-24.21321,150.48051,-24.17321",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u0410\u043d\u0430\u043d\u0434\u044d\u0439\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Annandale"
+    ],
+    "name:eng_x_preferred":[
+        "Annandale"
+    ],
+    "name:fra_x_preferred":[
+        "Annandale"
+    ],
+    "name:fry_x_preferred":[
+        "Annandale"
+    ],
+    "name:gla_x_preferred":[
+        "Srath Annan"
+    ],
+    "name:nor_x_preferred":[
+        "Annandale"
+    ],
+    "name:por_x_preferred":[
+        "Annandale"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043d\u0430\u043d\u0434\u0435\u0439\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Annandale"
+    ],
+    "name:swe_x_preferred":[
+        "Annandale"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u043d\u0430\u043d\u0434\u0435\u0439\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404541049,
+        85632793,
+        136253039,
+        102049135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8634401
+    },
+    "wof:country":"AU",
+    "wof:geomhash":"2ba649dee8ade469bda1514295f13f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049135,
+            "empire_id":136253039,
+            "localadmin_id":404541049,
+            "locality_id":1259690151,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":1259690151,
+    "wof:lastmodified":1566603571,
+    "wof:name":"Annandale",
+    "wof:parent_id":404541049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.46051,
+    -24.19321,
+    150.46051,
+    -24.19321
+],
+  "geometry": {"coordinates":[150.46051,-24.19321],"type":"Point"}
+}

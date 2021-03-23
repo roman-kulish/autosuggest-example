@@ -1,0 +1,233 @@
+{
+  "id": 101937543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000258,
+    "geom:area_square_m":2819098.622107,
+    "geom:bbox":"117.838371,-28.072032,117.86312,-28.044398",
+    "geom:latitude":-28.059105,
+    "geom:longitude":117.851491,
+    "gn:population":457,
+    "iso:country":"AU",
+    "lbl:latitude":-28.063607,
+    "lbl:longitude":117.847185,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mps:latitude":-28.063607,
+    "mps:longitude":117.847185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0648\u0646\u062a \u0645\u0627\u063a\u0646\u064a\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u045e\u043d\u0442-\u041c\u0430\u0433\u043d\u0435\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Mount Magnet"
+    ],
+    "name:deu_x_preferred":[
+        "Mount Magnet"
+    ],
+    "name:eng_x_preferred":[
+        "Mount Magnet"
+    ],
+    "name:eng_x_variant":[
+        "Mt Magnet",
+        "Mt. Magnet"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0648\u0646\u062a \u0645\u06af\u0646\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Mount Magnet"
+    ],
+    "name:ita_x_preferred":[
+        "Mount Magnet"
+    ],
+    "name:nld_x_preferred":[
+        "Mount Magnet"
+    ],
+    "name:por_x_preferred":[
+        "Mount Magnet"
+    ],
+    "name:swe_x_preferred":[
+        "Mount Magnet"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Australia",
+    "ne:ADM0_A3":"AUS",
+    "ne:ADM1NAME":"Western Australia",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AU",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":-28.066208,
+    "ne:LONGITUDE":117.816674,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Mount Magnet",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Mount Magnet",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Mount Magnet",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":424,
+    "ne:POP_MIN":424,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":2,
+    "ne:RANK_MIN":2,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Australia",
+    "ne:SOV_A3":"AUS",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:a0":"Australia",
+    "qs:a1":"*Western Australia",
+    "qs:a1_lc":"5",
+    "qs:a1r":"*",
+    "qs:adm0":"Australia",
+    "qs:id":0,
+    "qs:la":"Mount Magnet",
+    "qs:la_lc":"*SSC50532",
+    "qs:level":"locality1",
+    "qs:loc":"Mount Magnet",
+    "qs:pop":0,
+    "qs:source":"SAustralian Bureau Of Statistics: state suburbs file selection",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":-28.06,
+    "wd:longitude":117.846,
+    "wd:wordcount":648,
+    "wof:belongsto":[
+        102191583,
+        85632793,
+        102049667,
+        136253039,
+        404547879,
+        85681439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03307a96-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2065578,
+        "gp:id":1104199,
+        "qs_pg:id":1220993,
+        "wd:id":"Q986063",
+        "wk:page":"Mount Magnet, Western Australia"
+    },
+    "wof:coterminous":[
+        404547879
+    ],
+    "wof:country":"AU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
+    "wof:geomhash":"ff37e4143b8112f81a681aa77f6acf88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049667,
+            "empire_id":136253039,
+            "localadmin_id":404547879,
+            "locality_id":101937543,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":101937543,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1607989118,
+    "wof:name":"Mount Magnet",
+    "wof:parent_id":404547879,
+    "wof:placetype":"locality",
+    "wof:population":457,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-au",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.838371,
+    -28.072032,
+    117.86312,
+    -28.044398
+],
+  "geometry": {"coordinates":[[[117.840007,-28.066408],[117.8391,-28.066301],[117.83901299999999,-28.066199],[117.83860900000001,-28.066152],[117.838797,-28.0649],[117.83900199999999,-28.06432],[117.838925,-28.064312],[117.838371,-28.064321],[117.838398,-28.06414],[117.839411,-28.064124],[117.839403,-28.063756],[117.83915399999999,-28.063391],[117.839294,-28.063421],[117.83949200000001,-28.063457],[117.840293,-28.064099],[117.840982,-28.064328],[117.841881,-28.064466],[117.841936,-28.064178],[117.84206500000001,-28.06332],[117.842117,-28.062963],[117.84214,-28.06282],[117.842264,-28.062471],[117.84231800000001,-28.062113],[117.842331,-28.062026],[117.842327,-28.061932],[117.842473,-28.060963],[117.84256999999999,-28.060575],[117.842603,-28.060461],[117.842628,-28.060346],[117.84259,-28.060114],[117.84242999999999,-28.059873],[117.842232,-28.059669],[117.84217,-28.058891],[117.84234600000001,-28.058451],[117.84261600000001,-28.056634],[117.845326,-28.056957],[117.84545900000001,-28.05697],[117.845161,-28.056557],[117.844927,-28.056317],[117.844795,-28.056197],[117.84415300000001,-28.055545],[117.84407400000001,-28.055439],[117.84401699999999,-28.055317],[117.844711,-28.054686],[117.84541299999999,-28.055293],[117.84632499999999,-28.055397],[117.846934,-28.055468],[117.847938,-28.055595],[117.84809,-28.054581],[117.85010699999999,-28.05482],[117.850331,-28.054749],[117.849824,-28.058215],[117.849554,-28.059476],[117.850455,-28.059585],[117.85059800000001,-28.059795],[117.85161100000001,-28.059915],[117.852445,-28.060006],[117.85464,-28.052366],[117.855259,-28.049791],[117.855315,-28.045549],[117.85553899999999,-28.04553],[117.856323,-28.044398],[117.861249,-28.044603],[117.861076,-28.045753],[117.86312,-28.045835],[117.863102,-28.046198],[117.86277200000001,-28.052685],[117.85774000000001,-28.053124],[117.85719,-28.056729],[117.8566,-28.060507],[117.85615,-28.063383],[117.85605200000001,-28.064025],[117.85575900000001,-28.063972],[117.855476,-28.065212],[117.855414,-28.065251],[117.855255,-28.066006],[117.855012,-28.066864],[117.854803,-28.067492],[117.85444,-28.068294],[117.853976,-28.069068],[117.853544,-28.069654],[117.852981,-28.07026],[117.85218399999999,-28.070865],[117.85164,-28.071275],[117.850658,-28.072032],[117.850593,-28.072012],[117.850064,-28.071606],[117.850404,-28.069339],[117.85066399999999,-28.06921],[117.850782,-28.06825],[117.850572,-28.068217],[117.849655,-28.068109],[117.849552,-28.068824],[117.848434,-28.068692],[117.84807000000001,-28.068621],[117.848049,-28.068743],[117.847893,-28.069549],[117.846631,-28.069399],[117.846436,-28.069376],[117.84635900000001,-28.069872],[117.845304,-28.069746],[117.845428,-28.068892],[117.845499,-28.068439],[117.845288,-28.068414],[117.845303,-28.068313],[117.845106,-28.068303],[117.84419800000001,-28.068195],[117.843678,-28.067934],[117.83984599999999,-28.067481],[117.840007,-28.066408]]],"type":"Polygon"}
+}

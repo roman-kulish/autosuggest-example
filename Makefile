@@ -1,6 +1,7 @@
 ROOT_DIR := $(shell pwd)
 BIN_DIR := $(ROOT_DIR)/bin
 DB_DIR := $(ROOT_DIR)/db
+DATA_DIR := $(ROOT_DIR)/data-admin-au
 
 BIN_SERVER := $(BIN_DIR)/server
 BIN_UPDATE_DB := $(BIN_DIR)/updatedb
@@ -13,7 +14,7 @@ build-updatedb:
 
 updatedb:
 	( test -s $(BIN_UPDATE_DB) || make build-updatedb ) && \
-	$(BIN_UPDATE_DB) -db $(DB_DIR)
+	$(BIN_UPDATE_DB) -db $(DB_DIR) -data $(DATA_DIR)
 
 all: build-server build-updatedb
 

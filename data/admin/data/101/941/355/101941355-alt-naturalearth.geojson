@@ -1,0 +1,18 @@
+{
+  "id": 101941355,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"naturalearth",
+    "src:geom":"naturalearth",
+    "wof:geomhash":"45418182bf982f239748025d630e30fc",
+    "wof:id":101941355,
+    "wof:repo":"whosonfirst-data-admin-au"
+},
+  "bbox": [
+    128.36006140046595,
+    -15.37395953487584,
+    128.36006140046595,
+    -15.37395953487584
+],
+  "geometry": {"coordinates":[128.36006140046595,-15.37395953487584],"type":"Point"}
+}

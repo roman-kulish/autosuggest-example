@@ -1,0 +1,18 @@
+{
+  "id": 101939593,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"quattroshapes_pg",
+    "src:geom":"quattroshapes_pg",
+    "wof:geomhash":"8bafd1e2399eeba46212dbb21f5c80a1",
+    "wof:id":101939593,
+    "wof:repo":"whosonfirst-data-admin-au"
+},
+  "bbox": [
+    148.38881,
+    -30.95389,
+    148.38881,
+    -30.95389
+],
+  "geometry": {"coordinates":[148.38881000000001,-30.95389],"type":"Point"}
+}
