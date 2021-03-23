@@ -1,6 +1,6 @@
-[submodule "admin"]
+[submodule "data/admin"]
 	path = data/admin
 	url = https://github.com/whosonfirst-data/whosonfirst-data-admin-au.git
-[submodule "postalcode"]
-	path = data/poscodes
+[submodule "data/postcodes"]
+	path = data/postcodes
 	url = https://github.com/whosonfirst-data/whosonfirst-data-postalcode-au.git
